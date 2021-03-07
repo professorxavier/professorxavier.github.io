@@ -7,14 +7,14 @@ title: Publications
 
 <p><b> Journal: <a target = "_blank" href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142020000200261&lng=pt&nrm=iso&tlng=pt" target="_blank">Analysis of social networks as a strategy to support health surveillance during Covid-19.</a></b></p>
 <p><b>Month/Year: </b>July/2020</p>
-<p><b>Institution/Location:: </b>Revista Estudos Avançados</p>
+<p><b>Institution/Location: </b>Revista Estudos Avançados</p>
 <p><b>ABSTRACT:</b> The large volume of data generated on social networks is used by companies to monitor public opinion about their products and services. These data may contain useful information for health surveillance, such as in assessing the impact of public policies or identifying fake news. This work presents results of studies that demonstrate how analysis of data from social networks may be applied to surveillance activities, using the covid-19 pandemic as a case study. An approach based on data science was used, with information extracted through machine learning algorithms. Results indicate that this approach can reveal useful information for surveillance activities, providing a real-time view of aspects related to the pandemic.</p>
 
 <hr/>
 
 <p><b> Journal: <a target = "_blank" href="http://www.seer.ufu.br/index.php/revistabrasileiracartografia/article/download/45168/pdf/0" target="_blank">Extended Paper: Use of Spatial Visualization for Pattern Discovery in Evapotranspiration Estimation</a></b></p>
 <p><b>Month/Year: </b>December/2018</p>
-<p><b>Institution/Location:: </b>Revista Brasileira de Cartografia</p>
+<p><b>Institution/Location: </b>Revista Brasileira de Cartografia</p>
 <p><b>ABSTRACT:</b> In Water Resources area, data are obtained from various sources, such as measuring instruments and satellites. Often such data may contain patterns that are not easily identified, either because of the large volume of data sets or because the analysis requires the use of several data dimensions. In this way, this study proposes the application of machine learning resources and spatial visualization to identify patterns in the estimation of an important component of the hydrological cycle: the evapotranspiration. This work is expected to contribute to an approach to estimate evapotranspiration, using spatial resources for pattern identification and model generation.</p>
 
 <hr/>
@@ -22,7 +22,7 @@ title: Publications
 
 <p><b> Conference Paper: <a target = "_blank" href="http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2017/12.01.20.09/doc/43xavier_brochado.pdf" target="_blank">Use of Spatial Visualization for Pattern Discovery in Evapotranspiration Estimation</a></b></p>
 <p><b>Month/Year: </b>December/2017</p>
-<p><b>Institution/Location:: </b>XVIII Brazilian Symposium on GeoInformatics - Salvador - Brazil</p>
+<p><b>Institution/Location: </b>XVIII Brazilian Symposium on GeoInformatics - Salvador - Brazil</p>
 <p><b>ABSTRACT:</b> In Water Resources area, data are obtained from various sources, such as measuring instruments and satellites. Often such data may contain patterns that are not easily identified, either because of the large volume of data sets or because the analysis requires the use of several data dimensions. In this way, this study proposes the application of machine learning resources and spatial visualization to identify patterns in the estimation of an important component of the hydrological cycle: the evapotranspiration. This work is expected to contribute to an approach to estimate evapotranspiration, using spatial resources for pattern identification and model generation.</p>
 
 <hr/>
@@ -30,7 +30,7 @@ title: Publications
 
 <p><b> Conference Paper: <a target = "_blank" href="http://www.epacis.net/ccis2016/papers/paper_89.pdf" target="_blank">A Software Tool for Analysis and Forecast of Hydrometeorological Variables</a></b></p>
 <p><b>Month/Year: </b>November/2016</p>
-<p><b>Institution/Location:: </b>IV Conference of Computational Interdisciplinary Science - S&atilde;o Jos&eacute; dos Campos - Brazil</p>
+<p><b>Institution/Location: </b>IV Conference of Computational Interdisciplinary Science - S&atilde;o Jos&eacute; dos Campos - Brazil</p>
 <p><b>ABSTRACT:</b> The Data Deluge Era represents a challenge for researchers, providing them a growing and complex data mass, many times difficult to extract information from this data mass. In order to extracting value from these data, computational resources have been increasingly used in scientific research, integrating Computer Science to other knowledge areas. Due to its interdisciplinary aspect, Data Science emerges as an approach to enable this integration, using tools and methods from many knowledge areas to transform these data in useful information, through of a Data Science Lifecycle. Aiming to automate phases from this lifecycle, it was developed a software using as case study the process of analysis and forecast of hydrometeorological variables. In this paper, it was described this software as well the study case used
 to validate the software developed.</p>
 
@@ -56,7 +56,7 @@ to validate the software developed.</p>
 
 <p><b>Conference Paper: <a target = "_blank" href="https://www.researchgate.net/publication/282879754_KDD_application_on_Meteorological_Data_for_Identification_of_Regional_Patterns_in_Estimation_of_Evapotranspiration?ev=prf_pub"> KDD application on Meteorological Data for Identification of Regional Patterns in Estimation of Evapotranspiration</a></b></p>
 <p><b>Month/Year: </b>October/2015</p>
-<p><b>Institution/Location:: </b>XXX Brazilian Symposium on Databases (SBBD) - National Laboratory of Scientific Computing (LNCC) - Petr&oacute;polis - Brazil</p>
+<p><b>Institution/Location: </b>XXX Brazilian Symposium on Databases (SBBD) - National Laboratory of Scientific Computing (LNCC) - Petr&oacute;polis - Brazil</p>
 <p><b>ABSTRACT:</b> The evaporation is defined as the sum of the evaporated water with the water transpired from the vegetation. It has great importance in irrigation, that represents 75% of global water consumption and, therefore, its estimate is crucial to better management of this resource. Currently, this estimate is made by mathematical methods, using data obtained from measuring stations, whose absence prevents the use of these methods. This initial study aims, from the data available at measuring stations, apply the KDD process to identify whether there are patterns in the estimation in places with similar characteristics, which could be used for similar locations without measuring stations.</p>
 
 <hr/>
