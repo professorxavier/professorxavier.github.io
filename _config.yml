@@ -22,7 +22,7 @@ title: Fernando Xavier
 email: fernando.xavier at gmail
 description: >- # this means to ignore newlines until "baseurl:"
   just a simple collection of my productions
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.fernandoxavier.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fxavier8791
 github_username:  professorxavier
