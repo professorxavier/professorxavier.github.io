@@ -84,6 +84,6 @@ to validate the software developed.</p>
 <h5><a target = "_blank" href="http://www.authorstream.com/Presentation/ferx78-185921-adempiere-erp-free-palestra-uerj-education-ppt-powerpoint/">ADempiere </a></h5>
 <h5><a target = "_blank" href="http://www.authorstream.com/Presentation/ferx78-2509959-adempiere-fiscalcont-bil/">ADempiere - Fiscal & Cont&aacute;bil</a></h5>
 <h5><a target = "_blank" href="http://www.rfidbr.com.br/images/o_que_e_rfid.pdf">O que &eacute; RFID?</a></h5>
-<h5><a target = "_blank" href="https://www.fernandoxavier.com.br/lectures/20181002_udf_tech_day_machinelearning.pdf">2o UDF Tech Day (02/10/2018) - Machine Learning</a></h5>
-<h5><a target = "_blank" href="https://www.fernandoxavier.com.br/lectures/201906_machinelearning_climatologia.pdf">Machine Learning na Climatologia</a></h5>
+<h5><a target = "_blank" href="https://professorxavier.github.io/lectures/20181002_udf_tech_day_machinelearning.pdf">2o UDF Tech Day (02/10/2018) - Machine Learning</a></h5>
+<h5><a target = "_blank" href="https://professorxavier.github.io/lectures/201906_machinelearning_climatologia.pdf">Machine Learning na Climatologia</a></h5>
 <hr/>
