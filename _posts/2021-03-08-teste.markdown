@@ -1,1 +1,4 @@
+tags: teste adempiere python
+---
+
 teste de post
