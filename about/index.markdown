@@ -1,6 +1,3 @@
----
-title: About
----
 
 <ul>
 <li><a href="https://twitter.com/fxavier8791" target="_blank">Twitter</a></li>
