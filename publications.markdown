@@ -5,6 +5,13 @@ title: Publications
 
 <hr/>
 
+<p><b> Conference Paper: <a target = "_blank" href="https://ieeexplore.ieee.org/document/9848938" target="_blank">Critical Success Factors in Combating Dengue and COVID-19: Lessons for Future Pandemics</a></b></p>
+<p><b>Month/Year: </b>June/2022</p>
+<p><b>Institution/Location: </b>2022 IEEE World Conference on Applied Intelligence and Computing (AIC)</p>
+<p><b>ABSTRACT:</b> The COVID-19 pandemic has affected the entire world, causing millions of deaths. In addition to this disease, many countries also periodically face outbreaks of other diseases, such as dengue. Although the two diseases have their specific characteristics, there may be common factors affecting them. Knowing these factors is essential for governments to plan actions to mitigate the impacts of future epidemics. This research aims to analyze data from several dimensions to identify the critical success factors for the fight against dengue and COVID-19. For this, Data Science techniques were applied to data from 645 cities in the State of São Paulo, Brazil. The results provide important information that may explain why some locations have been more successful than others in fighting those diseases, as well as identifying the common factors that may also impact other diseases.</p>
+
+<hr/>
+
 <p><b> Journal: <a target = "_blank" href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142020000200261&lng=pt&nrm=iso&tlng=pt" target="_blank">Analysis of social networks as a strategy to support health surveillance during Covid-19.</a></b></p>
 <p><b>Month/Year: </b>July/2020</p>
 <p><b>Institution/Location: </b>Revista Estudos Avançados</p>
